@@ -7,10 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## API banque:
+# API banque:
+## Utilities:
 A project for managing bank:<br>
 - Transfering Money. <br>
 - Managing Accounts. <br>
 - Managing Clients.
+## Requirements :
+- Composer or Docker.
+- Link for Composer : https://getcomposer.org/
+## Lunch: 
+-Create a DataBase on PHPMyAdmin (Mysql) called : "gcomptes"<br>
+- Use commands<br>
+ > php artisan migrate --seed <br>
+ > php artisan serve
 
 
