@@ -9,7 +9,7 @@ pipeline {
     stage('Display system date') {
       steps {
         sh 'date'
-      }
-    }
-  }
+}
+}
+}
 }
