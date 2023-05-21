@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git 'https://github.com/your-repo.git'
+        git 'https://github.com/nessyoun/api-banque.git'
       }
     }
     stage('Display system date') {
