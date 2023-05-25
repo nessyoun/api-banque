@@ -12,4 +12,7 @@ pipeline {
 }
 }
 }
+triggers{
+  pollSCM('*/1 * * * *')
+}
 }
