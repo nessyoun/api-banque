@@ -18,10 +18,10 @@ A project for managing bank:<br>
 - Link for Composer : https://getcomposer.org/
 ## Lunch: 
 -Create a DataBase on PHPMyAdmin (Mysql) called : "gcomptes"<br>
-- Use commands<br>
+- Use commands<br> 
  > php artisan migrate --seed <br>
  > php artisan serve
 
- Thanks for support
+ Thanks for support all
 
 
