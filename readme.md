@@ -22,6 +22,6 @@ A project for managing bank:<br>
  > php artisan migrate --seed <br>
  > php artisan serve
 
- Thanks for support all
+ Thanks for support 
 
 
